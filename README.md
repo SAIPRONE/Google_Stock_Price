@@ -1,4 +1,5 @@
 # Google Stock Price Prediction 📈
+![image](https://github.com/SAIPRONE/Google_Stock_Price/assets/95390348/32971301-2d45-46da-a40e-a6f88bd16098)
 
 Using Machine Learning and Deep Learning algorithms like Linear Regression (LR), Neural Networks (NN), and Recurrent Neural Networks (RNN) to predict Google's stock prices. 
 
