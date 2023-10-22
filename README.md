@@ -39,9 +39,11 @@ The visual output will showcase the actual Google stock price in red and the pre
 - [LSTM Networks](https://www.bioinf.jku.at/publications/older/2604.pdf)
 - [Keras Documentation](https://keras.io/)
 - [Google Stock Data (example source)](https://www.google.com/finance) (Replace with your actual source if different)
+  
+## Author
+**Fadi Helal**
 
 ## 📜 License:
 This project is open-source under the BSD 3-Clause License.
 
-## Author
-**Fadi Helal**
+
